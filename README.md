@@ -1,2 +1,0 @@
-# flexmoney
-Internship Assignment 

@@ -1,0 +1,1 @@
+web: gunicorn YogaClassroom.wsgi --log-file -

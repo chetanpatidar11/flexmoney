@@ -18,8 +18,7 @@ So just directly run `python manage.py runserver` after installing neccesary mod
 
 
 # Try It
-
-https://flexmoney-yoga-form.herokuapp.com/
+https://app.netlify.com/teams/chetanpatidar11/overview
 
 ## Setup Instructions
 
